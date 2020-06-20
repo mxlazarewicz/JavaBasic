@@ -23,6 +23,11 @@ public class forEach {
         ex1(names);
       String result = ex2(products);
         System.out.println(result);
+        String pesel = "94010504672";
+
     }
-}
+
+
+    }
+
 
